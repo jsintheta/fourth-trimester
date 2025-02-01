@@ -89,9 +89,9 @@ A user-friendly website that consists of a profile setup, an interface which all
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Jecinta ]: [Flask]
+- [Ishita Rithesh]: [Front-end]
+- [Kalyani Kavitha]: [Basic UI/UX]
 
 ---
 Made with ❤️ at TinkerHub
