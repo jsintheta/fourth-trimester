@@ -29,17 +29,18 @@ New mothers often struggle with **postpartum recovery, mental health challenges,
 ✅ **Trusted information** on recovery, mental health, and infant care.  
 ✅ **Personalized support** with AI-driven recommendations.  
 ✅ **A supportive community** to connect and share experiences. 
-✅  **Mindful reminders** to keep going on and push through. 
+✅ **Mindful reminders** to keep going on and push through. 
+✅ **Virtual Hugs** to offer a little bit of comfort in times of neeed.
 
 With expert guidance and emotional support in one place, **Fourth Trimester** makes motherhood easier and stress-free. 💜🚀
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]: HTML, CSS, Python, Javascript
-- [Frameworks used]: Flask
-- [Libraries used]: Flask
-- [Tools used]: Figma
+- Languages used: HTML, CSS, Python, Javascript
+- Frameworks used:Flask
+- Libraries used: Flask
+- Tools used: Figma
 
 
 ### Implementation
@@ -68,14 +69,16 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components]
+1. To-Do List, Daily Reminders, Sending Virtual Hugs, Mood-board
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Build]
+*General layout, Sign Up, Profile Setup, Interface and To-do list created using HTML, CSS and Javascript.
+Virtual hugs and reminders created using Python+Flask.
+UI created using Figma.
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final]
+A user-friendly website that consists of a profile setup, an interface which allows the user to perform functions like- sending virtual hugs, creating to-do lists, sending timed reminders and create moodboards. The website also offers emergency hotline numbers for users to contact in times of distress.
 
 ### Project Demo
 # Video
