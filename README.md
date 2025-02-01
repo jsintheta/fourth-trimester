@@ -89,7 +89,7 @@ A user-friendly website that consists of a profile setup, an interface which all
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Jecinta ]: [Flask]
+- [Jecinta Jayan]: [Flask]
 - [Ishita Rithesh]: [Front-end]
 - [Kalyani Kavitha]: [Basic UI/UX]
 
