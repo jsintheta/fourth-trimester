@@ -28,8 +28,8 @@ New mothers often struggle with **postpartum recovery, mental health challenges,
 
 ✅ **Trusted information** on recovery, mental health, and infant care.  
 ✅ **Personalized support** with AI-driven recommendations.  
-✅ **A supportive community** to connect and share experiences. 
-✅ **Mindful reminders** to keep going on and push through. 
+✅ **A supportive community** to connect and share experiences.
+✅ **Mindful reminders** to keep going on and push through.
 ✅ **Virtual Hugs** to offer a little bit of comfort in times of neeed.
 
 With expert guidance and emotional support in one place, **Fourth Trimester** makes motherhood easier and stress-free. 💜🚀
