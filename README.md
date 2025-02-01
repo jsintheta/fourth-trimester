@@ -36,15 +36,11 @@ With expert guidance and emotional support in one place, **Fourth Trimester** ma
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used]: HTML, CSS, Python, Javascript
+- [Frameworks used]: Flask
+- [Libraries used]: Flask
+- [Tools used]: Figma
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
