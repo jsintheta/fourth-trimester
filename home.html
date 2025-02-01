@@ -1,37 +1,104 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
-    <style>
-        body {
-            text-align: center;
-            background-color: #111;
-            font-family: Raleway;
-            color: white;
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-        button {
-            padding: 15px 30px;
-            font-family: Raleway;
-            font-size: 20px;
-            cursor: pointer;
-            background-color: violet;
-            border: none;
-            color: white;
-            border-radius: 10px;
-        }
-    </style>
-</head>
-<body>
+<html>
+    <head>
+        <title>home</title>
 
-    <h1>VIRTUAL HUG</h1>
-    <button onclick="location.href='/hearts'">Go to Hearts Page 💜</button>
+        <style>
+            .whole{
+                display: flex;
+                justify-content: space-between;
+            }
 
-</body>
+            body{
+                background-image: url("./images/home.png");
+                background-size: cover;
+            }
+
+            button{
+                outline: none;
+                border: none;
+                background: transparent;
+            }
+            
+            button:hover{
+                transform: translateY(-5px);
+            }
+
+            h2{
+                justify-content: flex-start;
+                color: 62519c;
+                font-family: 'Gill Sans';
+                text-align: center;
+            }
+
+            .buttons{
+                justify-content: flex-end;
+                padding: 0 15px 0 15px;
+            }
+
+            .buttons button{
+                font-size: x-large;
+                font-family: 'Gill Sans';
+            }
+
+            span{
+                color: 62519c;
+            }
+
+            .welcome{
+                text-align: center;
+            }
+            .getstarted{
+                text-align: center;
+            }
+
+            .content{
+                margin-top: 10%;
+                
+            }
+
+            .getstarted button{
+                color: aliceblue;
+                border: solid c8b6ff;
+                background-color: c8b6ff;
+                border-radius: 15px;
+                height: 50px;
+                width: 150px;
+            }
+
+            
+
+
+
+        </style>
+    </head>
+    <body>
+        <div class="whole">
+            <h1>fourth trimester</h1>
+            <div class="buttons">
+            <button onclick="GoToLogin()">home</button>
+            <button onclick="AboutUs()">about us</button>
+            <button>socials</button>
+            <button>hotline</button>
+            </div>
+        </div>
+        <div class="content">
+            <div class="write">
+                <h1 class="welcome">welcome to <span>fourth trimester!</span></h1>
+                <br>
+                <h2>helping moms heal, thrive and embrace the journey!</h2><br><br>
+            </div>
+            <div class="getstarted">
+                <button onclick="GoToLogin()">GET STARTED</button>
+            </div>
+        </div>
+        <script>
+            function GoToLogin(){
+                window.location.assign("./login.html")
+            }
+
+            function AboutUs(){
+                window.location.assign("./aboutus.html");
+            }
+        </script>
+    </body>
 </html>
